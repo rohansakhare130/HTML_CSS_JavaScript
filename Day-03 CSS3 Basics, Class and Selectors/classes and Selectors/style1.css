@@ -1,0 +1,75 @@
+
+body{
+    text-align: center;
+    
+}
+
+nav h1{
+    text-align: center;
+}
+h1{
+    color:rgb(220, 138, 30);
+    text-align: center;
+    text-shadow:1px 1px rgb(244, 104, 28) ;
+    
+}   
+h3{
+    color: rgb(154, 12, 12);
+    
+}
+h4{
+    color: blue;
+}
+h5{
+    text-align: left;
+    text-shadow:1px 1px rgb(244, 104, 28) ;
+    background-color: aqua;
+}
+
+list h1{
+    text-align: center;
+}
+li{
+    text-align: left;
+}
+H1{
+    text-align: left;
+    background-color: rgb(233, 240, 240); 
+}
+l{
+    color: rgb(229, 97, 97);
+    text-align: right;
+    
+}
+
+textarea{
+    color: rgb(207, 222, 36);
+    text-align: center;
+}
+
+a1{
+    color: rgb(238, 14, 14);
+
+}
+ a {
+    color: red;
+    text-align: center;
+    background-color: antiquewhite;
+    
+}
+
+
+p{
+    color: rgb(180, 45, 45);
+    text-decoration: dotted;
+    
+  
+}
+
+p1{
+    color: rgb(14, 14, 105);
+    background-color: rgb(8, 9, 9);
+  
+}
+ 
+ 
