@@ -1,0 +1,64 @@
+img{
+    width: 15%;
+    text-align: center;
+    display: inline-block;
+    
+}
+
+.img3{
+  width: 15%;
+  text-align: center;
+    display: inline-block;
+    
+}
+.img4{
+  width: 15%;
+  text-align: center;
+    display: inline-block;
+    
+}
+
+
+.container
+{
+  text-align: center;
+  margin:auto;
+  width:70%;
+}
+
+#input{
+    box-shadow: #f10e0e;
+}
+
+body
+{
+    text-align: center;
+    background-color: rgb(207, 222, 234);
+    background-image: url('OIP.jpeg');
+    background-size: cover;
+
+}
+h1
+{
+  font-family: 'cambria',cursive;
+  font-size: 4rem;
+  color:#f10e0e;
+  background: rgb(201, 188, 188);
+}
+h3{
+    color: rgb(250, 9, 9);
+    background-color: azure;
+}
+p
+{
+  font-size: 2rem;
+  color: #a44104;
+  font-family: 'Cambria', cursive;
+}
+.rs:hover{
+  color: #f10e0e;
+
+}
+section{
+  text-align: center;
+}
