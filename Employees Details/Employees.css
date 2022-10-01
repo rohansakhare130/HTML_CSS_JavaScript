@@ -1,0 +1,33 @@
+.Form{
+    color: brown;
+}
+*{
+    box-sizing: border-box;
+    text-align: center;
+    
+}
+h1{
+    color: rgba(22, 20, 20, 0.814);
+    text-align: center;
+
+}
+h2{
+    color: red;
+}
+body{
+    background-color: rgb(248, 247, 245);
+    font-size: 20px;
+}
+
+input[type="text"]
+{
+    width: 100%;
+    box-sizing: 50px;
+}
+
+input[type="Submit"]
+{
+    
+    color: aliceblue;
+    background-color:rgb(25, 9, 243)
+}
